@@ -30,8 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maxglio/maxglio/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
